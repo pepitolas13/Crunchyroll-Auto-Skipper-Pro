@@ -17,7 +17,7 @@ Como la extensión aún no está en la Chrome Web Store, puedes instalarla manua
 
 1. Descarga o clona este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/crunchyroll-auto-skipper-pro.git
+   git clone https://github.com/pepitolas13/Crunchyroll-Auto-Skipper-Pro.git
    ```
 2. Abre Google Chrome o cualquier navegador basado en Chromium (Edge, Brave, Opera).
 3. Ve a `chrome://extensions/` en la barra de direcciones.
