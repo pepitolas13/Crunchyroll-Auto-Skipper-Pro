@@ -33,11 +33,19 @@ Haz clic en el icono del relámpago ⚡ en tu barra de extensiones para abrir el
 - Cambiar el idioma de la extensión haciendo clic en el icono 🌐.
 - Acceder a los enlaces de la comunidad y soporte.
 
+## ❤️ Apoya este proyecto
+
+Si esta extensión te ha ahorrado tiempo y quieres apoyar su desarrollo continuo, ¡cualquier ayuda es bienvenida!
+
+- ☕ **Invítame a un café:** [Buy Me a Coffee](https://buymeacoffee.com/pepotechcoa)
+- ▶️ **Suscríbete en YouTube:** [@PepoTech](https://www.youtube.com/@PepoTech)
+- 🌐 **Visita mi Web:** [danielagolli.com](https://www.danielagolli.com/)
+
+¡Y por supuesto, dejar una estrella ⭐️ en este repositorio también ayuda muchísimo!
+
 ## 🤝 Contribuir
 
 ¡Las contribuciones, problemas (issues) y peticiones de funcionalidades (pull requests) son siempre bienvenidas!
-
-Si te ha sido útil, ¡no olvides darle una estrella ⭐️ al repositorio!
 
 ## 📜 Licencia
 
