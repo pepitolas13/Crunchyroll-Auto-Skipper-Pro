@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Crunchyroll Auto-Skipper Pro</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #f47521; /* Crunchyroll orange */
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 30px;
+        }
+        .date {
+            color: #777;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-left: 5px solid #ffc107;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Extension:</strong> Crunchyroll Auto-Skipper Pro</p>
+        <p class="date">Last updated: May 6, 2026</p>
+
+        <div class="highlight">
+            <strong>Summary:</strong> This extension operates 100% locally in your browser. <strong>It DOES NOT collect, store, transfer, or sell any personal data or browsing history.</strong>
+        </div>
+
+        <h2>1. Data Collection</h2>
+        <p><strong>Crunchyroll Auto-Skipper Pro</strong> is designed with user privacy as the top priority. The extension does not collect any personal information, IP addresses, viewing history, or any other user data.</p>
+
+        <h2>2. Local Storage</h2>
+        <p>The extension strictly uses the browser's local storage API (<code>chrome.storage.local</code>) to save your configuration preferences. This includes:</p>
+        <ul>
+            <li>The state of the menu toggles (e.g., whether you have enabled or disabled the skipping of intros, recaps, or next episodes).</li>
+            <li>The selected language for the extension's interface.</li>
+        </ul>
+        <p>This data is stored <strong>exclusively on your local device</strong>. The developer does not have access to this data, and it is never sent to any external servers.</p>
+
+        <h2>3. Host Permissions</h2>
+        <p>The extension requires permission to run on <code>*://*.crunchyroll.com/*</code>. This permission is strictly necessary to:</p>
+        <ul>
+            <li>Inject the script that reads the Crunchyroll video player.</li>
+            <li>Visually detect when the "Skip" buttons appear.</li>
+            <li>Automatically click those buttons based on your preferences.</li>
+        </ul>
+        <p>This process happens locally and in real-time on your computer. We do not track or log what shows or episodes you are watching.</p>
+
+        <h2>4. Changes to this Policy</h2>
+        <p>We may update this privacy policy in the future. Any changes will be posted on this page. However, our core commitment to not collecting user data will always remain.</p>
+
+        <h2>5. Contact</h2>
+        <p>If you have any questions regarding this privacy policy, you can contact us through the Chrome Web Store support section or by creating an "Issue" in the project's official GitHub repository.</p>
+    </div>
+</body>
+</html>
